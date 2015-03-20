@@ -1,4 +1,5 @@
 # Led Tester
+This file is work in progress
 
 When we recycle some electronic objects, we need some tools for testing.
 It's for this reason that i decided to make a LED tester.
