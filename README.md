@@ -9,14 +9,14 @@ Juste for convenience, all is in this readme.
 Have Fun!
 
 ## BOM
-###Electronic
-+ LM317
-+ 15 ohms resistor
-+ 100 ohms trimmer potentiometer
-+ 1x2 female pin header
++ 1 LM317
++ 1 15 ohms resistor
++ 1 100 ohms trimmer potentiometer
++ 1 1x2 female pin header
++ 1 1x2 terminal
 
-### Material
-+ veroboard
-+ wires
+## Material
++ 1 veroboard
++ 1 wire
 + soldering iron
 + pewter
