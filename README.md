@@ -20,3 +20,5 @@ Have Fun!
 + 1 wire
 + soldering iron
 + pewter
+
+![Working](ledtester/ledTester-finish.jpg)
