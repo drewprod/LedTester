@@ -22,8 +22,11 @@ Images
 -------
 
 ![led tester prototype](ledtester/ledTester-prototype.jpg)
+
 ![led tester solder](ledtester/ledTester-solder.jpg)
+
 ![led tester test green](ledtester/ledTester-test-green.jpg)
+
 ![led tester test red](ledtester/ledTester-test-red.jpg)
 
 License Information
