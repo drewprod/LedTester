@@ -8,9 +8,8 @@ LEd Tester
 Specifications
 ---------------
 
-This led Tester accept: 
-+ on input from 1.25V to 37V (LM317 limitation)
-+ the current through the LED from 10mA to 80mA (adjustable with 100 Ohms portentiometer)
+This led Tester accept on input from 1.25V to 37V (LM317 limitation).
+The current through the LED from 10mA to 80mA (adjustable with 100 Ohms portentiometer).
 
 Documentation
 --------------
