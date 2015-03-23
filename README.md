@@ -1,9 +1,11 @@
-LEd Tester
+Led Tester
 ===========
 
 ![led tester](ledtester/ledTester-finish.jpg)
 
 *Led tester - v0.1*
+
+Thanks [@AlexCalibur](https://github.com/AlexCalibur), [@acoLab](https://github.com/acolab) ;-)
 
 Specifications
 ---------------
