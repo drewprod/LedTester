@@ -1,6 +1,6 @@
 
 
-           Vin       ___________       R1        R2            Vout
+           Vin       ___________       R1        R2            Vout / Iout
                     |           |     ____     ___/_
            ()-------|   LM317   |----[____]---[__/__]----+----()
                     |___________|               /        |
@@ -12,9 +12,11 @@
            Gnd                                                Gnd
 
 
-**Vin** : 1.2 to 37V
+**Vin**: 1.2 to 37V
 
-**R1** : 15 ohms
+**R1**: 15 ohms
 
-**R2** : 0 ohm to 100 Ohms
+**R2**: 0 ohm to 100 Ohms
+
+**Iout**: 10mA (with R2=100ohms) to 80mA (with R2=0ohm)
 
